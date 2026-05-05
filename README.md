@@ -18,7 +18,7 @@
 ## 🛠️ Tech Stack  
 
 **Languages:**  
-Python • C • HTML • CSS  
+Python • C++ • HTML • CSS  
 
 **Tools & Frameworks:**  
 Git • VS Code • Godot • Linux  
