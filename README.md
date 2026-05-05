@@ -1,65 +1,13 @@
-## 👋 Hey, I'm Adan  
+# Hey, I'm Adan 👋
 
-🚀 Computer Science Engineering student specializing in **AI & Machine Learning**  
-💻 I build intelligent systems, automation tools, and games  
-🎯 Focused on creating real-world impactful projects  
+CSE (AI/ML) student building intelligent systems, tools, and games.
 
----
+## 🛠️ Stack
+`Python` `C` `TypeScript` `HTML/CSS` `GDScript` · Godot · scikit-learn · Electron · Git
 
-## 🧠 About Me  
-- 🎓 CSE (AI & ML) student  
-- 🤖 Interested in Machine Learning, Automation, and Game Development  
-- 🎮 Currently building a **2D Adventure Game (Godot)**  
-- 🛡️ Working on an **ATM Fraud Detection System**  
-- ⚡ Exploring system-level tools and productivity software  
+## 🚀 Projects
+- **ATM Fraud Detection**[Completed] — ML pipeline with Random Forest, synthetic data, and Arduino hardware interface
+- **2D Adventure Game**[On Hiatus] — Hollow Knight / Dead Cells inspired, built in Godot 4
+- **Mouse Config Utility**[Stalled] — Electron + React app, raw HID protocol via Wireshark reverse-engineering
 
----
-
-## 🛠️ Tech Stack  
-
-**Languages:**  
-Python • C++ • HTML • CSS  
-
-**Tools & Frameworks:**  
-Git • VS Code • Godot • Linux  
-
-**Core Concepts:**  
-Machine Learning • Data Analysis • Problem Solving  
-
----
-
-## 🚀 Projects  
-
-### 🔹 ATM Fraud Detection System [Completed]
-- Built a machine learning model to detect fraudulent transactions  
-- Includes preprocessing, feature engineering, and evaluation metrics  
-
----
-
-### 🔹 2D Adventure Game (Godot) [On Hiatus] 
-- Inspired by Hollow Knight & Dead Cells  
-- Focus on combat mechanics, movement, and level design  
-
----
-
-### 🔹 Mouse Automation Software [Stalled]
-- Developed a customizable tool for automating mouse actions  
-- Supports scripting, timing control, and productivity workflows  
-- Explored OS-level input handling and real-time automation  
-
----
-
-## 📈 Current Focus  
-- Improving ML model performance and deployment  
-- Building polished, portfolio-ready projects  
-- Learning advanced system design and AI concepts  
-
----
-
-## 📫 Contact  
-📧 adityanr566@gmail.com  
-
----
-
-## ⚡ Fun Fact  
-The loading circle in your cursor is called a **"throbber"** 😄  
+## 📫 adityanr566@gmail.com
