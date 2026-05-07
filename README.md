@@ -1,4 +1,4 @@
-# Hey, I'm Adan 👋
+# Hey, I'm Adan 
 
 CSE (AI/ML) student building intelligent systems, tools, and games.
 
@@ -10,4 +10,4 @@ CSE (AI/ML) student building intelligent systems, tools, and games.
 - **2D Adventure Game**[On Hiatus] — Hollow Knight / Dead Cells inspired, built in Godot 4
 - **Mouse Config Utility**[Stalled] — Electron + React app, raw HID protocol via Wireshark reverse-engineering
 
-## 📫 adityanr566@gmail.com
+## Contact me at : adityanr566@gmail.com
