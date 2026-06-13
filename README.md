@@ -3,7 +3,7 @@
 CSE (AI/ML) student building intelligent systems, tools, and games.
 
 ## 🛠️ Stack
-`Python` `C++` `java` `TypeScript` `HTML/CSS` `GDScript` · Godot · scikit-learn · Electron · Git
+`Python` `C++` `java` `TypeScript` `HTML/CSS` `GDScript` · `Godot` · `scikit-learn` · `Electron` · `Git`
 
 ## 🚀 Projects
 - **ATM Fraud Detection**[Completed] — ML pipeline with Random Forest, synthetic data, and Arduino hardware interface
