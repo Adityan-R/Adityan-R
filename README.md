@@ -1,50 +1,146 @@
 <div align="center">
 
-# Adityan R
-
-**CSE · AI/ML · LPU**&nbsp;&nbsp;·&nbsp;&nbsp;Building tools, systems, and the occasional game
-
-
-
-![GitHub](https://img.shields.io/badge/github-Adityan--R-black?style=flat-square&logo=github)
-
-https://github.com/Adityan-R
-
-
-![Mail](https://img.shields.io/badge/email-adityanr566%40gmail.com-black?style=flat-square&logo=gmail)
-
-mailto:adityanr566@gmail.com
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=555555&center=true&vCenter=true&width=435&lines=CSE+%C2%B7+AI%2FML+%C2%B7+LPU;Building+tools%2C+systems%2C+and+the+occasional+game;Local+LLM+tooling+%C2%B7+Full-stack+%C2%B7+Systems)](https://github.com/Adityan-R)
 
 </div>
 
 ---
 
-## Projects
+<table>
+<tr>
+<td valign="top" width="45%">
 
-**[llmx](https://github.com/Adityan-R/llmx)**
-&nbsp;·&nbsp; `Python` `Ollama` `LiteLLM`
-Local LLM agent CLI with seamless switching between local and remote providers. Inspired by Claude Code and Gemini CLI.
-`active`
+```
+                           ::                             
+                           +:                             
+                           +:                             
+                          :+. ..                          
+                          ;; ...                          
+                        :.;;.::                           
+                        ;::++;.                           
+                       :: :+;..  .                        
+                     .:+; ::.   ::                        
+                .  : :*;.:;;:      .                      
+                :  :;.;+.:++:                             
+               .: .*;  .:;+;                              
+               .;::*+  .;;++.                             
+              ; :;:*:  .;:;+.                             
+              ;:;;:*:   :+;+.                             
+              ; :;+?;   ;+**:  .                          
+             :+.++??;:.+??++...   .                       
+        :+*+++**+;;:.:+**:   ......   .                   
+;;;++++*?????**?;;;;;+*;;;;+;:;::..                       
+*?????%**%%????++**?***?*?*; :+;;:..:.......              
+?*;:;;:: ::;++++++**???***;   ;++;:;;:::::..              
+*++*?+;*?*++****%?%%%%?;.       .+**:::..:;:::::.    .....
+;;*?*?%SSSSS%??*+*%%?S*          ;S????**++++**+;::;;;++++
++++?%%*?%%*%S*;;+??%%*:          :?S###S%**%S?%%%%%?*??%%%
+SS??***%%%%*???%SSSS%:          :..S#####S##SS####%???SSS?
+%SSSS%????%%??%%S%%S*           *?.+####S####S#SS#SSS%%??*
+?%SSSSSS##S########%.           ;S+.+*S########SSSSSSS%%S%
+???%%?%SSS######%**.            .##%**++*%################
+##S%S%%%%%SS%;:::               ;##S###S%*+*?S######SS####
+?%%%%#S###SS%?;:.               +#S#S#####SS%?**?%##S####S
+;+???%SSSS%SS#%S;               :SSSSSSSSSSSSS%%?***?%SSSS
+:;;;+++**???*%%?:               +%%??%%S%%??%%%%%SS%%%S#SS
+:.:::;:;;:+++****?++;           +*??????%%%%SSS%?%S%%%%%?%
+:...::..:::;:;;++**+*+:::       ::;;;;:;;;;;+*+*%%?*++*+*+
+::::::::::...::::;;;+::;::::. ..  ..  .: .:;;;+*???*????*+
+::::;;;::::::::::.:::::;;+**+*+*+++++++**??**+***+;+**+**+
+..::::::::::::::::::::::;;;;;;:;;;**??+;+*++;;*+++*?;:+*;+
+ .....:::::+:..::.::::::;;;;;:::::::;++++;;;+++;;+++++;+;;
+         .::.::.::::;::.:::::.:.:.......:.:::;;*+++;++;+++
+.   :. ..        :..:;;::::..:::::::...:.: ....;::;+;;;;++
+.  ...     .            ..:...:::;:::::...:.:.  ...  .::::
+......   :.  .    .      . .::..:...:::.:::..:.:::.   ..  
+```
 
-**[WindSkye](https://github.com/Adityan-R/WindSkye)**
-&nbsp;·&nbsp; `TypeScript` `Textual` `qbittorrent-api`
-Terminal-based torrent search and download client with a clean TUI.
-`active`
+</td>
+<td valign="top" width="55%">
 
-**[ATM Fraud Detection](https://github.com/Adityan-R/atm-fraud-detection)**
-&nbsp;·&nbsp; `Python` `scikit-learn` `Arduino` `SQLite`
-End-to-end fraud detection simulator — Random Forest backend, hardware keypad + LCD interface, weighted loss to minimize false negatives.
-`complete`
+```yaml
+user@github:~$ neofetch
+
+name     : Adityan R (Adan)
+role     : B.Tech CSE (AI/ML) · LPU '28
+intern   : Vonnue · Full-stack
+
+os       : Windows 11
+machine  : Ryzen 7 7840HS
+gpu      : RTX 4060 Max-Q · 8GB
+ram      : 16 GB
+
+focus    : local LLM tooling
+         : full-stack · systems
+         : Fun
+
+langs    : Python · TypeScript · C++/Java
+stack    : React · FastAPI · Ollama
+tools    : Git · Godot · NIM
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Stack
+## Projects
 
-| Layer | Tools |
-|---|---|
-| Languages | Python · TypeScript · C · HTML/CSS |
-| Frontend | React · Electron |
-| AI/ML | scikit-learn · Ollama · NVIDIA NIM |
-| Backend | FastAPI · Flask · SQLite |
-| Tools | Git · Linux · GDScript (Godot) |
+<table>
+<tr>
+<td width="33%" valign="top">
 
+**[llmx](https://github.com/Adityan-R/llmx)**
+`active`
+
+Local LLM agent CLI with seamless switching between local + remote providers. Inspired by Claude Code & Gemini CLI.
+
+`Python` `Ollama` `LiteLLM`
+
+</td>
+<td width="33%" valign="top">
+
+**[WindSkye](https://github.com/Adityan-R/WindSkye)**
+`active`
+
+Terminal-based torrent search & download client with a clean TUI interface.
+
+`TypeScript` `Textual` `qbittorrent-api`
+
+</td>
+<td width="33%" valign="top">
+
+**[ATM Fraud Detection](https://github.com/Adityan-R/atm-fraud-detection)**
+`complete`
+
+ML fraud simulator — Random Forest backend, Arduino hardware interface, weighted loss to minimize false negatives.
+
+`Python` `scikit-learn` `Arduino` `SQLite`
+
+</td>
+</tr>
+</table>
+
+---
+
+## Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Adityan-R&theme=minimal&hide_border=true&area=true&color=555555&line=000000&point=000000)
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adityan-R&show_icons=true&theme=default&hide_border=true&hide_title=true&count_private=true)
+&nbsp;&nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adityan-R&layout=compact&hide_border=true&theme=default)
+
+</div>
+
+---
+
+<div align="center">
+<sub>
+<a href="mailto:adityanr566@gmail.com">adityanr566@gmail.com</a>
+&nbsp;·&nbsp;
+</sub>
+</div>
