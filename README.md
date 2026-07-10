@@ -19,15 +19,6 @@
 
 ---
 
-\```
-os       Windows 11 · Arch (retired)
-machine  Ryzen 7 7840HS · RTX 4060 Max-Q · 16 GB RAM
-role     B.Tech CSE (AI/ML) @ LPU · Intern @ Vonnue
-focus    local LLM tooling · full-stack · systems
-\```
-
----
-
 ## Projects
 
 **[llmx](https://github.com/Adityan-R/llmx)**
