@@ -4,16 +4,16 @@
 
 **CSE · AI/ML · LPU**&nbsp;&nbsp;·&nbsp;&nbsp;Building tools, systems, and the occasional game
 
-[
+
 
 ![GitHub](https://img.shields.io/badge/github-Adityan--R-black?style=flat-square&logo=github)
 
-](https://github.com/Adityan-R)
-[
+(https://github.com/Adityan-R)
+
 
 ![Mail](https://img.shields.io/badge/email-adityanr566%40gmail.com-black?style=flat-square&logo=gmail)
 
-](mailto:adityanr566@gmail.com)
+(mailto:adityanr566@gmail.com)
 
 </div>
 
