@@ -48,24 +48,3 @@ End-to-end fraud detection simulator — Random Forest backend, hardware keypad 
 | Backend | FastAPI · Flask · SQLite |
 | Tools | Git · Linux · GDScript (Godot) |
 
----
-
-## Contribution Activity
-
-
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Adityan-R&theme=minimal&hide_border=true&area=true)
-
-
-
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adityan-R&show_icons=true&theme=default&hide_border=true&hide_title=true&count_private=true)
-
-
-
----
-
-<div align="center">
-<sub>NCC Cadet · 2nd Year · Kerala → Punjab</sub>
-</div>
