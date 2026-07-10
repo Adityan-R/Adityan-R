@@ -63,7 +63,6 @@ user@github:~$ neofetch
 
 name     : Adityan R (Adan)
 role     : B.Tech CSE (AI/ML) · LPU '28
-intern   : Vonnue · Full-stack
 
 os       : Windows 11
 machine  : Ryzen 7 7840HS
