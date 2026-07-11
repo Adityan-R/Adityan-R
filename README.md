@@ -11,7 +11,7 @@
 <td valign="top" width="45%">
 
 ```
-<img width="600" height="600" alt="ASCII-Art-in-Grasshopper-img1" src="https://github.com/user-attachments/assets/a48f4b13-5120-4172-ab6e-77dcb9e39ad9" />
+
 
 ```
 
