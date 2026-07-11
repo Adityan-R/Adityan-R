@@ -25,7 +25,8 @@ name     : Adityan R (Adan)
 role     : B.Tech CSE (AI/ML) · LPU '28
 
 os       : Windows/Linux
-machine  : Ryzen 7 7840HS
+machine  : HAL9000
+cpu      : Ryzen 7 7840HS
 gpu      : RTX 4060 Max-Q · 8GB
 ram      : 16 GB
 
