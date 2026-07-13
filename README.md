@@ -8,12 +8,11 @@
 
 <table>
 <tr>
-<td valign="top" width="45%">
+<td valign="top" width="50%">
 
-
-
+![terminal](https://img.shields.io/badge/~/matrix--rain-000000?style=flat-square&logo=gnubash&logoColor=lime)
+<br/>
 <img width="400" height="400" alt="matrix" src="https://github.com/user-attachments/assets/92454a7f-8b6d-4048-898a-5961cc5f089a" />
-
 
 </td>
 <td valign="top" width="55%">
@@ -44,6 +43,7 @@ tools    : Git · Godot · NIM
 </td>
 </tr>
 </table>
+
 
 ---
 
@@ -103,6 +103,5 @@ ML fraud simulator — Random Forest backend, Arduino hardware interface, weight
 <div align="center">
 <sub>
 <a href="mailto:adityanr566@gmail.com">adityanr566@gmail.com</a>
-&nbsp;·&nbsp;
 </sub>
 </div>
