@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=555555&center=true&vCenter=true&width=435&lines=CSE+%C2%B7+AI%2FML+%C2%B7+LPU;Building+tools%2C+systems%2C+and+the+occasional+game;Local+LLM+tooling+%C2%B7+Full-stack+%C2%B7+Systems)](https://github.com/Adityan-R)
 
+![GitHub Contribution Grid](https://ghchart.rshah.org/Adityan-R)
+
 </div>
 
 ---
@@ -9,18 +11,10 @@
 <table>
 <tr>
 <td valign="top" width="50%">
-
-![terminal](https://img.shields.io/badge/~/matrix--rain-000000?style=flat-square&logo=gnubash&logoColor=lime)
-<br/>
 <img width="400" height="400" alt="matrix" src="./matrix-rain.svg" />
-
 </td>
 <td valign="top" width="55%">
-
-![neofetch](https://img.shields.io/badge/~/neofetch-000000?style=flat-square&logo=gnubash&logoColor=white)
-<br/>
 <img width="400" alt="info card" src="./info-card.svg" />
-
 </td>
 </tr>
 </table>
@@ -65,10 +59,6 @@ ML fraud simulator — Random Forest backend, Arduino hardware interface, weight
 </table>
 
 ---
-
-## Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Adityan-R&theme=minimal&hide_border=true&area=true&color=555555&line=000000&point=000000)
 
 <div align="center">
 
