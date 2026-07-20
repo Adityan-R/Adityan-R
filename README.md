@@ -12,38 +12,18 @@
 
 ![terminal](https://img.shields.io/badge/~/matrix--rain-000000?style=flat-square&logo=gnubash&logoColor=lime)
 <br/>
-<img width="400" height="400" alt="matrix" src="https://github.com/user-attachments/assets/92454a7f-8b6d-4048-898a-5961cc5f089a" />
+<img width="400" height="400" alt="matrix" src="./matrix-rain.svg" />
 
 </td>
 <td valign="top" width="55%">
 
-```yaml
-user@github:~$ neofetch
-
-name     : Adityan R (Adan)
-role     : B.Tech CSE (AI/ML) · LPU '28
-
-os       : Windows/Linux
-machine  : HAL9000
-cpu      : Ryzen 7 7840HS
-gpu      : RTX 4060 Max-Q · 8GB
-ram      : 16 GB
-
-focus    : Python · ML pipelines
-         : scikit-learn · Ollama · NIM
-         : local LLM tooling
-         : full-stack (React · FastAPI)
-         : Fun
-
-langs    : Python · TypeScript · C++/Java
-stack    : React · FastAPI · Ollama
-tools    : Git · Godot · NIM
-```
+![neofetch](https://img.shields.io/badge/~/neofetch-000000?style=flat-square&logo=gnubash&logoColor=white)
+<br/>
+<img width="400" alt="info card" src="./info-card.svg" />
 
 </td>
 </tr>
 </table>
-
 
 ---
 
@@ -53,22 +33,22 @@ tools    : Git · Godot · NIM
 <tr>
 <td width="33%" valign="top">
 
-**[llmx](https://github.com/Adityan-R/llmx)**
-`active`
-
-Local LLM agent CLI with seamless switching between local + remote providers. Inspired by Claude Code & Gemini CLI.
-
-`Python` `Ollama` `LiteLLM`
-
-</td>
-<td width="33%" valign="top">
-
 **[WindSkye](https://github.com/Adityan-R/WindSkye)**
 `active`
 
 Terminal-based torrent search & download client with a clean TUI interface.
 
 `TypeScript` `Textual` `qbittorrent-api`
+
+</td>
+<td width="33%" valign="top">
+
+**[llmx](https://github.com/Adityan-R/llmx)**
+`active`
+
+Local LLM agent CLI with seamless switching between local + remote providers. Inspired by Claude Code & Gemini CLI.
+
+`Python` `Ollama` `LiteLLM`
 
 </td>
 <td width="33%" valign="top">
