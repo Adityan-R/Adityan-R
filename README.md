@@ -3,9 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=555555&center=true&vCenter=true&width=435&lines=CSE+%C2%B7+AI%2FML+%C2%B7+LPU;Building+tools%2C+systems%2C+and+the+occasional+game;Local+LLM+tooling+%C2%B7+Full-stack+%C2%B7+Systems)](https://github.com/Adityan-R)
 
 </div>
-
+ 
 ---
-
+ 
 <table>
 <tr>
 <td valign="top" width="50%">
